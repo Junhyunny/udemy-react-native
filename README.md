@@ -10,3 +10,4 @@
 
 * [002. What is React Native?](/docs/chapter-002.md)
 * [004. A Glance Under The Hood of React Native](/docs/chapter-004.md)
+* [005. Creating React Native Projects: Expo CLI VS React Native CLI](/docs/chapter-005.md)

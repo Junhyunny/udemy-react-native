@@ -10,6 +10,7 @@
 |:-:|:-:|:-:|:-:|
 | div | android.View | UIView | View |
 | input | EditText | UITextField | TextInput |
-| div | android.View | UIView | View |
 
-* 
+* JavaScript 비즈니스 로직 코드는 UIElement처럼 컴파일되지 않는다.
+    * React Native에 의해 호스팅되는 JavaScript 스레드에 의해 실행된다.
+    * 비즈니스 로직은 JavaScript 코드로서 실행되며 React Native에 의해 Android, iOS 플랫폼과 통신된다.
