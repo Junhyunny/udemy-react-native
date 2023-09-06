@@ -9,3 +9,4 @@
 ## Chapters
 
 * [002. What is React Native?](/docs/chapter-002.md)
+* [004. A Glance Under The Hood of React Native](/docs/chapter-004.md)
